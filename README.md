@@ -26,7 +26,7 @@ A full-stack message board. Users can post messages, read what others have poste
 
 1. Clone the repo
 2. Run `npm install`
-3. Run `npm run savage`
+3. Run `npm start`
 4. Navigate to `localhost:3000`
 
 ## 📚 What I Learned
