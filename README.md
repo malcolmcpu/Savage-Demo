@@ -6,7 +6,7 @@ A full-stack message board. Users can post messages, read what others have poste
 
 ## Preview
 
-![Message Board Screenshot](previews/savage-demo-screengrab.png)
+![Message Board Screenshot](previews/savage-demo-screengrab1.png)
 
 ## Features
 
